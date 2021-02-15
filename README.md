@@ -1,9 +1,5 @@
 # university_fetch(https://cryptic-lowlands-23524.herokuapp.com)
 
-<p align="center">
-<img src="Screenshots/rest.png" align="centre" height="150" width="250" >
-</p>
-
 A Flask based web app to fetch the list of universities based on the given country name.
 
 
